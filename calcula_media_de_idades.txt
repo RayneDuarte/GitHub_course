@@ -1,3 +1,4 @@
+//esse programa calcula a média da idade de n pessoas
 #include <stdio.h>
 int main() {
 
